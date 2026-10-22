@@ -33,6 +33,7 @@
   <a href="https://getartcraft.com/apps/photocraft"><b>PhotoCraft on getartcraft.com</b></a> ·
   <a href="https://getartcraft.com/">ArtCraft</a> ·
   <a href="https://getartcraft.com/apps">All Crafting Apps</a>
+  <a href="https://www.msn.com/">ayoub</a>
 </p>
 
 <br>
