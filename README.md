@@ -12,7 +12,7 @@
 <p align="center">
   <b>Image editing; an open-source, clean-room reimplementation of Adobe Photoshop, rebuilt in pure Rust.</b><br>
   Layers, masks, adjustment layers, layer styles, type, vectors, brushes and real PSD files,<br>
-  in a native app written entirely in Rust. Open source, offline, and yours.
+  in a native app written entirely in Rust. Open source, offline, and yours. #ayoub was there
 </p>
 
 <p align="center">
